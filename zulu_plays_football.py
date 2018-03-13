@@ -2,6 +2,7 @@
 n, k = map(int,input().split())
 target=set(map(int,input().split()))
 _,*l=input().split()
-l=set(l)
-print(l)
+
+
+
 
