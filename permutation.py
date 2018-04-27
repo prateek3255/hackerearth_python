@@ -1,3 +1,4 @@
+#https://www.hackerearth.com/challenge/competitive/april-circuits-18/algorithm/t1-1-6064aa64/
 n=int(input())
 l=list(map(int,input().split()))
 ol=list(l)
